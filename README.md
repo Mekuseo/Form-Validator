@@ -81,9 +81,9 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> https://mekuseo.github.io/Global-Summit-Project/
+> https://mekuseo.github.io/Form-Validator/
 
-- [Live Demo Link](https://www.loom.com/share/806a8261b36344cc900db8939718c5f7)
+- [Live Demo Link](https://mekuseo.github.io/Form-Validator/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -96,7 +96,7 @@ After you're finished please remove all the comments and instructions!
 
 > Mention all of the collaborators of this project.
 
-👤 **Author1**
+👤 **Author**
 
 - GitHub: [@mekuseo](https://github.com/mekuseo)
 - Twitter: [@fullstack_pison](https://twitter.com/pison_fullstack)
@@ -111,9 +111,9 @@ After you're finished please remove all the comments and instructions!
 
 > Describe 1 - 3 features you will add to the project.
 
-- **[Dynamic_loading]**
-- **[Mobile_menu_change]**
-- **[Animations]**
+- **[Valid-Email-Address]**
+- **[Input-Length-Check]**
+- **[Password-Match]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -125,7 +125,7 @@ After you're finished please remove all the comments and instructions!
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank thank (Cindy Shin) the Original Owner of the design idea
+I would like to thank thank (O'reilly) the Original Owner of the design idea
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
