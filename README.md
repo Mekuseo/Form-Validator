@@ -56,11 +56,11 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Global Summit Capstone Project] <a name="about-project"></a>
+# 📖 [FORM VALIDATOR WIDGET] <a name="about-project"></a>
 
 > Describe your project in 1 or 2 sentences.
 
-**[Form-Validator]** is a simple form validation project that checks if the user has entered a valid email address and a password that is at least 8 characters long and correct input length.
+**[Form-Validator-widget]** is a simple form validation project that checks if the user has entered a valid email address and a password that is at least 8 characters long and correct input length.
 
 ## 🛠 Built With Html, CSS, JavaScript, Github<a name="built-with"></a>
 
