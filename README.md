@@ -80,6 +80,7 @@ After you're finished please remove all the comments and instructions!
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
+![alt text](https://github.com/Mekuseo/Form-Validator/blob/master/form-validator-screenshot.png)
 
 > https://mekuseo.github.io/Form-Validator/
 
